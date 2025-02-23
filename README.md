@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="40" height="40"/> 
-  <img src="[https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg](https://www.pngwing.com/en/free-png-nsjlq)" alt="bootstrap" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="40" height="40"/>
 </p>
 
 
