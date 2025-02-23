@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 </p>
 <h2 align="center">Databases</h2>
 <p align="center">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="40" height="40"/> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" alt="mysql" width="40" height="40"/> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png" alt="mysql" width="40" height="40"/> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="mysql" width="40" height="40"/> 
 </p>
 <h2 align="center">Cloud Platforms</h2>
 <p align="center">
