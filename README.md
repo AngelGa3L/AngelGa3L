@@ -29,7 +29,12 @@ Here are some ideas to get you started:
 <h2 align="center">Cloud Platforms</h2>
 <p align="center">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="40" height="40"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/digitalocean-icon.png" alt="aws" width="40" height="40"/> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/digitalocean-icon.png" alt="digitalocean" width="40" height="40"/> 
+</p>
+<h2 align="center">Frameworks</h2>
+<p align="center">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.png" alt="nodejs" width="40" height="40"/> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/laravel-icon.png" alt="laravel" width="40" height="40"/> 
 </p>
 
 
