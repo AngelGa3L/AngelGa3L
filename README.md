@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Languages</h2>
-<p align="left">
+<p align="center">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="c#" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/php-programming-language-icon.png" alt="php" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="40" height="40"/> 
+</p>
+<h2 align="center">Databases</h2>
+<p align="center">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="40" height="40"/> 
+</p>
+<h2 align="center">Cloud Platforms</h2>
+<p align="center">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="40" height="40"/> 
 </p>
 
