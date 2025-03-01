@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.png" alt="nodejs" width="40" height="40"/> 
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/laravel-icon.png" alt="laravel" width="40" height="40"/> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelga3L&layout=compact&hide=html" alt="akhilgkrishnan" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelga3L&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
 
 
 
