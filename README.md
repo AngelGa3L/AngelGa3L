@@ -1,39 +1,71 @@
-<h1 align="center">Hi 👋, I'm Angel</h1>
+<h1 align="center">👋 Hi, I'm Angel Gael</h1>
+<h3 align="center">💻 Software Developer | Full Stack | IoT & Embedded Systems Enthusiast</h3>
 
-<!--
-**AngelGa3L/AngelGa3L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning **Node.js, Express, and scalable API architectures**  
+- 🧠 Interested in **IoT projects** integrating sensors with cloud platforms  
+- 💼 Building multi-platform systems for **education and smart environments**  
+- 🎯 Focused on clean code, automation, and efficient software design  
+- 📫 Reach me at **your-email@example.com**  
+- ⚡ Fun fact: I love blending software with real-world hardware solutions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="c#" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/php-programming-language-icon.png" alt="php" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" alt="js" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="html" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="html" width="40" height="40"/>
+---
 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" alt="mysql" width="40" height="40"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.png" alt="mongodb" width="40" height="40"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="postgresql" width="40" height="40"/> 
+### 🧩 Tech Stack
 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="40" height="40"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/digitalocean-icon.png" alt="digitalocean" width="40" height="40"/> 
-
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.png" alt="nodejs" width="40" height="40"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/laravel-icon.png" alt="laravel" width="40" height="40"/> 
+#### 🖥️ Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,php,js,nodejs,express,laravel,bootstrap,html,css" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelga3L&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
 
+#### 🗃️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,digitalocean,vercel,linux,git,github" />
+</p>
 
+#### 🧰 Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,arduino" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelga3L&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelga3L&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🧠 Featured Projects
+- 🎓 [**Smart Attendance System**](#) — IoT-based school system with sensors, APIs, and multi-platform apps.  
+- 🌿 [**PlantCare App**](#) — Monitors plant health using sensors and gives care recommendations.  
+- ⚙️ [**API Gateway**](#) — Handles routing for multi-service architecture (academic + sensors APIs).
+
+---
+
+### 🏆 Badges & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=angelga3L&theme=onedark&margin-w=10&no-frame=true"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelgael" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://angelga3l.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
+</p>
+
+---
+
+⭐ **“Code, connect, and create something impactful.”**
