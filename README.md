@@ -42,14 +42,6 @@
 </p>
 
 ---
-
-### 🧠 Featured Projects
-- 🎓 [**Smart Attendance System**](#) — IoT-based school system with sensors, APIs, and multi-platform apps.  
-- 🌿 [**PlantCare App**](#) — Monitors plant health using sensors and gives care recommendations.  
-- ⚙️ [**API Gateway**](#) — Handles routing for multi-service architecture (academic + sensors APIs).
-
----
-
 ### 🏆 Badges & Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=angelga3L&theme=onedark&margin-w=10&no-frame=true"/>
@@ -59,9 +51,9 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/angelgael" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://angelga3l.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://www.linkedin.com/in/angel-guevara-guerrero-b8a1872b3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:anhgelgaelguevara@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.comAngelGa3L" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
 
 ---
