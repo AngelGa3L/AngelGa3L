@@ -1,15 +1,13 @@
 <h1 align="center">👋 Hi, I'm Angel Gael</h1>
-<h3 align="center">💻 Software Developer | Full Stack | IoT & Embedded Systems Enthusiast</h3>
+<h3 align="center">💻 Software Developer | Full Stack </h3>
 
 ---
 
 ### 🚀 About Me
 - 🌱 Currently learning **Node.js, Express, and scalable API architectures**  
-- 🧠 Interested in **IoT projects** integrating sensors with cloud platforms  
 - 💼 Building multi-platform systems for **education and smart environments**  
 - 🎯 Focused on clean code, automation, and efficient software design  
-- 📫 Reach me at **your-email@example.com**  
-- ⚡ Fun fact: I love blending software with real-world hardware solutions!
+- 📫 Reach me at **angelgaelguevara@gmail.com**  
 
 ---
 
@@ -27,7 +25,7 @@
 
 #### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,digitalocean,vercel,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,linux,git,github" />
 </p>
 
 #### 🧰 Tools & IDEs
